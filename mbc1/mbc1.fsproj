@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--****************************************-->
+<!--   File    : mbc1.fsproj                -->
+<!--   Format  : TopoR Project file         -->
+<!--   Version : 2                          -->
+<!--   Program : TopoR Lite 7.0.18508       -->
+<!--   Date    : Tuesday, November 06, 2018 -->
+<!--   Time    : 10:20                      -->
+<!--****************************************-->
+
+<Project>
+   <Version current="2"/>
+   <GUID>{19DB5210-4DB3-4447-8AB0-39921604390B}</GUID>
+   <Documents>
+      <Section name="PCB" isExpanded="true">
+         <File path=".\mbc1cartridge_test.fsx" isopened="1" dateChange="2018-11-06 10:01:22"/>
+      </Section>
+      <Section name="AutoRouting" isExpanded="true">
+         <File path=".\autoroute_181106092751\mbc1cartridge_test_1512-50s.fsb" isopened="0" dateChange="2018-11-06 09:28:20"/>
+         <File path=".\autoroute_181106095905\mbc1cartridge_test_1568-51sa.fsb" isopened="0" dateChange="2018-11-06 09:59:41"/>
+         <File path=".\autoroute_181106095305\mbc1cartridge_test_1569-50s.fsb" isopened="0" dateChange="2018-11-06 09:54:43"/>
+         <File path=".\autoroute_181106093148\mbc1cartridge_test_1581-51s.fsb" isopened="0" dateChange="2018-11-06 09:32:20"/>
+         <File path=".\autoroute_181106093658\mbc1cartridge_test_1587-49s.fsb" isopened="0" dateChange="2018-11-06 09:40:28"/>
+         <File path=".\autoroute_181106094754\mbc1cartridge_test_1588-50sa.fsb" isopened="0" dateChange="2018-11-06 09:48:31"/>
+         <File path=".\autoroute_181106094510\mbc1cartridge_test_1593-51sa.fsb" isopened="0" dateChange="2018-11-06 09:45:31"/>
+         <File path=".\autoroute_181106095123\mbc1cartridge_test_1597-52sa.fsb" isopened="0" dateChange="2018-11-06 09:51:48"/>
+         <File path=".\autoroute_181106100128\mbc1cartridge_test_1633-53s.fsb" isopened="0" dateChange="2018-11-06 10:02:00"/>
+         <File path=".\autoroute_181106092151\mbc1cartridge_test_1825-53sa.fsb" isopened="0" dateChange="2018-11-06 09:23:43"/>
+      </Section>
+   </Documents>
+   <Import>
+      <Specctra>
+         <Path name="C:\Users\bongo\Documents\KiCad\mbc1cartridge_test\mbc1cartridge_test.dsn"/>
+      </Specctra>
+   </Import>
+</Project>
